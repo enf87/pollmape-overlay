@@ -46,7 +46,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 .custom .duration strong {
 	color: #ffa;
 	font-size: 20px;
-	display: block;
+	display: table;
 }
 .custom .total {
 	margin-right: 2%;
