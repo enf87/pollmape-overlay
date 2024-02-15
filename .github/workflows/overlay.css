@@ -31,7 +31,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 .custom .metaInfo {
 	background: green;
 	overflow: hidden;
-	padding: 0 10px;
+	padding: 10px 10px;
 }
 .custom .total, .custom .duration {
 	background: #444;
